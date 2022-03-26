@@ -1,1 +1,3 @@
-.vscode
+build/S/
+build/obj/
+build/bin/
